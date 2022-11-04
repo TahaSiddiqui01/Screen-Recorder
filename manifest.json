@@ -1,0 +1,14 @@
+{
+    "name": "ScreenRecording app",
+    "version": "1.0.0",
+    "description": "This is a screen recorder and best alternate to loom",
+    "manifest_version": 3,
+    "author": "Taha Siddiqui",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Video Recorder"
+    },
+    "permissions": [
+      "webNavigation"
+    ]
+}
